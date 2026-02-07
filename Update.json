@@ -1,6 +1,6 @@
 {
-  "Version": "1.0",
-  "Notification": "Update First Phiên bản.",
+  "Version": "2.0",
+  "Notification": "Update Fix lỗi xmap qua Nappa.",
   "Update": [
     {
       "Name": "toolpvt.jar",
