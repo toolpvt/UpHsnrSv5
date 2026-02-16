@@ -883,7 +883,7 @@
 882: Tôm tẩm bột chiên xù - type: 29
 883: Cải trang Black Gohan Rose - type: 5
 884: Cải trang Cậu Hít - type: 5
-885: Cải trang Lích Tên - type: 5
+885: Cải trang Lích Tên Bư Béo - type: 5
 886: Trứng vịt muối - type: 27
 887: Gà quay nguyên con - type: 27
 888: Bột mì - type: 27
@@ -1368,7 +1368,7 @@
 2280: Danh hiệu Lắm tiền nhiều của - type: 17
 2281: Danh hiệu Ông hoàng phông bạt - type: 17
 2282: Danh hiệu Phù thuỷ tài chính - type: 17
-2283: Rương 1 món huỷ diệt ngẫu nhiên - type: 27
+2283: Rương 1 món huỷ diệt ngẫu nhiên max option - type: 27
 2284: Rương set huỷ diệt max chỉ số - type: 27
 2285: Danh hiệu bang hội CVQ - type: 17
 2286: Danh hiệu bang hội GLX - type: 17
@@ -1510,7 +1510,7 @@
 2422: Cải Trang Siêu Xayda Đô Re mon - type: 5
 2423: Cải trang SGK SSJ 1 - type: 5
 2424: Cải Trang Sôngoku Rồng Đen - type: 5
-2425: Cải Trang SonGoKu Lasvegas  - type: 5
+2425: Cải trang SGK SSJ 3 - type: 5
 2426: Cải Trang Sôn Goku Thế giới mới - type: 5
 2427: Cải trang SGK SSJ 5 - type: 5
 2428: Cải trang Mitsuishi Kotono - type: 5
@@ -2066,7 +2066,7 @@
 3002: Goku Vô Cực - type: 5
 3003: Radic - type: 5
 3004: Goju Satoru - type: 5
-3005: Goku ssj 5 - type: 5
+3005: Cải Trang Ảnh Linh Saiyan - type: 5
 3006: Tượng Phật - type: 27
 3007: Danh Hiệu Top 1 Siêu Cấp Liên Server - type: 17
 3008: Danh Hiệu Top 2 Siêu Cấp Liên Server - type: 17
@@ -2089,9 +2089,97 @@
 3025: Tất Ông Già Noel - type: 27
 3026: Thiệp Giáng Sinh Vip - type: 27
 3027: Thiệp Giáng Sinh - type: 27
-3028: Vé x2 Sát Thương Skill 9 - type: 27
-3029: Vé x5 Sát Thương Skill 9 - type: 27
+3028: Vé x2 Sát Thương Skill 9 - type: 29
+3029: Vé x5 Sát Thương Skill 9 - type: 29
 3030: Thú Cưỡi Phi Cơ Merry Xmas - type: 23
 3031: Hào Quang Sư Phụ Vòng Quay Noel - type: 21
 3032: Vé Hào Quang Đệ Tử Noel - type: 27
 3033: Hào quang Đệ tử Noel - type: 40
+3034: Vé triệu hồi boss - type: 27
+3035: Vé triệu hồi boss giới hạn dam - type: 27
+3036: Cải Trang Tết Dương - type: 5
+3037: Ngọc Bội Xuân - type: 26
+3038: Danh Hiệu Hồi Sinh Ngọc Rồng 2026 - type: 17
+3039: Bánh Mỳ TNSM - type: 29
+3040: Combo bánh kẹo - type: 29
+3041: Quả Trứng  - type: 29
+3042: Vòng chân hồn thiên đế cấp 10 - type: 35
+3043: Cải Trang Thần Tài Đến - type: 5
+3044: Vé x3 sát thương tự sát - type: 29
+3045: Danh hiệu Top 1 Vip - type: 17
+3046: Danh hiệu Top 2 Vip - type: 17
+3047: Danh hiệu Top 3 Vip - type: 17
+3048: Danh hiệu Top 1 Vòng Quay Noel - type: 17
+3049: Danh hiệu Top 2 Vòng Quay Noel - type: 17
+3050: Danh hiệu Top 3 Vòng Quay Noel - type: 17
+3051: Hào quang Lửa Xanh - type: 21
+3052: Hào Quang Đệ Tử - type: 40
+3053: Ngọc Bội Noel - type: 26
+3054: Đeo lưng Bạch Linh Dực - type: 11
+3055: Linh thú Bướm U Minh - type: 19
+3056: Linh Thú Bướm 2 - type: 19
+3057: Cải Trang Siêu Xayda Bạch Đế - type: 5
+3058: Thú cưỡi Chichi Phi Hành  - type: 23
+3059: Cải Trang Rồng Thần Namec - type: 5
+3060: Cải Trang Gogeta SSJ 3 - type: 5
+3061: Cải Trang Gogeta SSJ 4 - type: 5
+3062: Danh hiệu Bông Hoa Nở Muộn - type: 17
+3063: Danh Hiệu Kẻ Chiến thắng 0 Chính Thức  - type: 17
+3064: Danh hiệu Niềm Tự Hào Vĩnh Cửu - type: 17
+3065: Danh hiệu Sinh Nhật 2 Tuổi - type: 17
+3066: Danh hiệu Vua Về Nhì - type: 17
+3067: Danh hiệu Nhà Vô Địch - type: 17
+3068: Vé Câu Đổi Quà HSNR 2 tuổi - type: 27
+3069: Thú cưỡi Đài Sen Thơ Mộng - type: 23
+3070: Rương 1 món thần linh - type: 27
+3071: Rương 1 món hủy diệt - type: 27
+3072: Rương găng hủy diệt tùy chọn - type: 27
+3073: Danh Hiệu Bậc Thầy Câu Cá - type: 17
+3074: Danh hiệu Cao Thủ Thả Cần - type: 17
+3075: Danh hiệu Kẻ Phục Kích Dưới Nước - type: 17
+3076: Tuần Lộc Chiến  - type: 23
+3077: Cải Trang Frost - type: 5
+3078: Cải Trang Ca Lic Toc do - type: 5
+3079: Cải Trang Gohan Miêu Thần - type: 5
+3080: Cải Trang Đại Thần Namec - type: 5
+3081: Bao Lì Xì 2026 - type: 27
+3082: Bao Lì Xì Thượng Đế - type: 27
+3083: Vé Pét Tết 2026 - type: 27
+3084: Vé Thú Cưỡi Tết 2026 - type: 27
+3085: Vé Cải Trang Tết 2026 - type: 27
+3086: Vé Đeo Lưng Tết 2026 - type: 27
+3087: Vé Dò Lô Tô - type: 27
+3088: Vé Hào Quang Đệ Tử Tết 2026 - type: 27
+3089: Vé Quay May Mắn - type: 27
+3090: Vé Quay Thượng Đế - type: 27
+3091: Thú Cưỡi Hỏa Thần Phi Cơ - type: 23
+3092: Pét Cá Chép Thần Phúc  - type: 18
+3093: Đeo Lưng Nhánh Đào Tân Xuân - type: 11
+3094: Đeo Lưng Mai Vàng Phú Quý  - type: 11
+3095: Thú Cưỡi Phi Thuyền Thỏ  - type: 23
+3096: Hào quang Sư Phụ - type: 21
+3097: Hào Quang Đệ Tử - type: 40
+3098: Hào quang Sư Phụ Chưa Dùng - type: 21
+3099: Bánh Chưng 2026 - type: 29
+3100: Bánh Tét 2026 - type: 29
+3101: Danh hiệu Mừng Xuân Cùng HSNR - type: 17
+3102: Vé Danh Hiệu - type: 27
+3103: Siêu Saiyan Thức Tỉnh  - type: 5
+3104: Đeo Lưng Thần Điểu Dẫn Đường  - type: 11
+3105: Thú Cưỡi Phi Thuyền Tím - type: 23
+3106: Ngọc Bội Hộ Mệnh Sv5 - type: 26
+3107: Danh hiệu Top 1 Vòng Quay Thượng Đế - type: 17
+3108: Danh hiệu Top 2 Vòng Quay Thượng Đế - type: 17
+3109: Danh hiệu Top 3 Vòng Quay Thượng Đế - type: 17
+3110: Danh hiệu Top 1 Sức Mạnh - type: 17
+3111: Danh hiệu Top 2 Sức Mạnh - type: 17
+3112: Danh hiệu Top 3 Sức Mạnh - type: 17
+3113: Danh hiệu Top 1 Nhiệm Vụ - type: 17
+3114: Danh hiệu Top 2 Nhiệm Vụ - type: 17
+3115: Danh hiệu Top 3 Nhiệm Vụ - type: 17
+3116: Danh hiệu Top 1 VIP - type: 17
+3117: Danh hiệu Top 2 VIP - type: 17
+3118: Danh hiệu Top 3 VIP - type: 17
+3119: Cải Trang Hắc Ảnh Saiyan - type: 5
+3120: Cải Trang Xayda Băng Đế Lôi Thần - type: 5
+3121: Vé Lì Xì May Mắn - type: 27
